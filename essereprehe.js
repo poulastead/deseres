@@ -1,0 +1,1 @@
+this.ExponentAlpha = exponentAlpha;
